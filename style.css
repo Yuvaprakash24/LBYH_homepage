@@ -45,6 +45,7 @@ body{
 @media (max-width: 1268px) {
   .navbar .navbar-item,.navbar .btn {
       display: none;
+      position: relative;
   }
   .navbar .menu {
       text-decoration: none;
