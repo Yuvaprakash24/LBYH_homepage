@@ -83,9 +83,9 @@ body{
   background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
-  padding: auto;
-  padding-top: 7%;
+  padding-top: 6%;
   padding-right: 35%;
+  padding-bottom: 3%;
 }
 
 .text-content h1{
