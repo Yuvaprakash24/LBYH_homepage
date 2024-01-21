@@ -42,7 +42,7 @@ body{
   display: none;
   margin-left: auto;
 }
-@media (max-width: 1068px) {
+@media (max-width: 1168px) {
   .navbar .navbar-item,.navbar .btn {
       display: none;
   }
