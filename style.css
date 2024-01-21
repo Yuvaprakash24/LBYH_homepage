@@ -51,7 +51,7 @@ body{
       color: #000;
       display: block;
       position: absolute;
-      top: auto;
+      top: 0%;
       right: 3%;
       font-size: 20px;
   }
